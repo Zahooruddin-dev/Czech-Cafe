@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/cafe-react/static/css/main.b21ffd86.css",
-    "main.js": "/cafe-react/static/js/main.a8da0958.js",
-    "index.html": "/cafe-react/index.html",
-    "main.b21ffd86.css.map": "/cafe-react/static/css/main.b21ffd86.css.map",
-    "main.a8da0958.js.map": "/cafe-react/static/js/main.a8da0958.js.map"
+    "main.css": "/Zahooruddin-dev/Czech-Cafe/static/css/main.67c864b3.css",
+    "main.js": "/Zahooruddin-dev/Czech-Cafe/static/js/main.eec3bf5b.js",
+    "index.html": "/Zahooruddin-dev/Czech-Cafe/index.html",
+    "main.67c864b3.css.map": "/Zahooruddin-dev/Czech-Cafe/static/css/main.67c864b3.css.map",
+    "main.eec3bf5b.js.map": "/Zahooruddin-dev/Czech-Cafe/static/js/main.eec3bf5b.js.map"
   },
   "entrypoints": [
-    "static/css/main.b21ffd86.css",
-    "static/js/main.a8da0958.js"
+    "static/css/main.67c864b3.css",
+    "static/js/main.eec3bf5b.js"
   ]
 }
